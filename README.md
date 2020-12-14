@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/mastering-entity-framework-core-advanced-querying-migrations-and-testing-video/9781788398527)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Mastering-Entity-Framework-Core-Advanced-Querying-Migrations-and-Testing
 
 This is the code repository for [Mastering Entity Framework Core - Advanced Querying, Migrations and Testing [Video]](https://prod.packtpub.com/in/application-development/mastering-entity-framework-core-advanced-querying-techniques-migrations-and-testing), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
